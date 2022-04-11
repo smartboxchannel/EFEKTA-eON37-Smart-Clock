@@ -11,7 +11,7 @@ My new zigbee project. Wireless Smart Clock with temperature, humidity and light
 ## You can make your own pcb here - https://www.pcbway.com/setinvite.aspx?inviteid=550959
 
 
-#### Video: https://youtu.be/5huTVfVpZgs
+#### Video: https://youtu.be/X3ozxLuN7Gg
 
 #### zigbee2mqtt.io/supported-devices: https://www.zigbee2mqtt.io/supported-devices/#s=efekta
 
