@@ -27,7 +27,11 @@ More info at http://efektalab.com/eON37SmartClock
 ![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/000.png) 
 
 
-![Indoor climate sensor EFEKTA eON213 Zigbee](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/EFEKTA_eON213z.jpg) 
+![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/003.jpg) 
+
+![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/004.jpg) 
+
+![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/005.jpg) 
 
 
 ### How to flash the device
