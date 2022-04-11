@@ -24,7 +24,7 @@ More info at http://efektalab.com/eON37SmartClock
 
 ## V1_R1
 
-![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/000.jpg) 
+![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/000.png) 
 
 
 ![Indoor climate sensor EFEKTA eON213 Zigbee](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/EFEKTA_eON213z.jpg) 
