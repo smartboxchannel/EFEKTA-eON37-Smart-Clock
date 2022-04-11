@@ -86,7 +86,9 @@ https://github.com/sigma7i/zigbee-wiki/wiki/zigbee-firmware-install (RU)
 4. Press the reset button on the device (the join procedure will begin, еhe device starts flashing the LED repeatedly)
 5. Wait, in case of successfull join, device will flash led 5 times, if join failed, device will flash led 2 times
 
-![Efekta THP_LR \ THP](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/003.jpg) 
+![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/001.jpg) 
+
+![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/002.jpg) 
 
 ### Troubleshooting
 
