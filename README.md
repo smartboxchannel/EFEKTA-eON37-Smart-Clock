@@ -1,4 +1,4 @@
-# EFEKTA eON37 Smart Clock
+# EFEKTA eON37 Smart Clock Zigbee
 
 My new zigbee project. Wireless Smart Clock with temperature, humidity and light sensors and of course with electronic ink display 3.7 inches. Automatic time and date setting via Zigbee network. Low power consumption, compact size, enclosure with magnets. The device use HTU21D T&H sensor, MAX44009 Light sensor, chip CC2530, battery 2хАА. Support in Zigbee2MQTT, not sure about ZHA yet.
 
@@ -24,7 +24,7 @@ More info at http://efektalab.com/eON37SmartClock
 
 ## V1_R1
 
-![Indoor climate sensor EFEKTA eON213 Zigbee](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/002.jpg) 
+![EFEKTA eON37 Smart Clock Zigbee](https://github.com/smartboxchannel/EFEKTA-eON37-Smart-Clock/blob/main/IMAGES/000.jpg) 
 
 
 ![Indoor climate sensor EFEKTA eON213 Zigbee](https://github.com/smartboxchannel/EFEKTA_eON213z/blob/main/IMAGES/EFEKTA_eON213z.jpg) 
